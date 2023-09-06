@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f9b077e005b6c894f97ba9c04dd4ba03, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  spellName: 
+  abilityImage: {fileID: 21300000, guid: d41b286a66b449742b7d144dcfb1c668, type: 3}
+  projectileSpeed: 8
+  vfx: {fileID: 0}
+  damage: 20
+  animation: {fileID: 0}
+  projectile: {fileID: 2462168058496595, guid: ac68775b63c0621468d8faffb671332b, type: 3}
+  timeBetweenAttacks: 1.25
+  projectileLifeTime: 8
