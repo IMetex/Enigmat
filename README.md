@@ -1,9 +1,10 @@
-## Enigmat(Charm Holder)
+## Enigmat (Charm Holder)
 > Unity Version 2022.03.5f1
-> 
+>
+
 - This game developed within 4 days in Arnavutköy Oyun Geliştirme Kampı.
 - All the game characters designed by our team members.
--  [Click for Project Video](https://drive.google.com/file/d/1g3gd-es_mAn_CqcaigIfDFxz5-JNPmmW/view?usp=drive_link  )
+- [Click for Project](https://imetex.itch.io/enigmat )
 
 ####  Project In Game Fotoage
   ![O0SQV1](https://github.com/IMetex/CharmHolder/assets/73601795/a0c00348-3603-4a43-b12e-f8e5f882f372)
